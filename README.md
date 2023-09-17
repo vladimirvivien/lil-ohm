@@ -1,3 +1,5 @@
+[![Go Reference](https://pkg.go.dev/badge/github.com/vladimirvivien/lil-ohm .svg)](https://pkg.go.dev/github.com/vladimirvivien/lil-ohm )
+
 # lil-ohm
 
 The lil-om is a Go module for calculating electrical circuit values using Ohm’s law. The module was created as part of a course for LinkedIn Learning.
