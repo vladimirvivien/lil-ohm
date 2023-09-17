@@ -1,4 +1,4 @@
-[![Go Reference](https://pkg.go.dev/badge/github.com/vladimirvivien/lil-ohm .svg)](https://pkg.go.dev/github.com/vladimirvivien/lil-ohm )
+[![Go Reference](https://pkg.go.dev/badge/github.com/vladimirvivien/lil-ohm.svg)](https://pkg.go.dev/github.com/vladimirvivien/lil-ohm )
 
 # lil-ohm
 
